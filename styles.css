@@ -16,7 +16,7 @@ body {
     align-items: center;
 }
 
-.qr-code-div {
+main {
     display: flex;
     box-sizing: border-box;
     flex-direction: column;
